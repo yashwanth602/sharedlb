@@ -1,0 +1,5 @@
+def test(name){
+  echo "hey ${name}"
+  gripcredentialsi: 'Testing-devops', url: 'https://github.com/yashwanth602/sharedlb.git'
+  sh "ls"
+}
